@@ -1,6 +1,6 @@
-# Spectral Probing
+# Visual Spectral Probing
 
-This archive contains implementations of the methods from "**Visual Spectral Probing**".
+This archive contains implementations of the methods from the masters's thesis "**Visual Spectral Probing**".
 
 It enables probing for the Vision Transformer using unfiltered, manually filtered and automatically filtered representations using the following filter definitions:
 
