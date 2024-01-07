@@ -36,3 +36,12 @@ TODO:
 The following lists the experiments included in this repository:
 
 * **filter 33 threshold** located in `tasks/20news/` requires a spearate download of the original data (please use the version in `20news-bydate.tar.gz`).
+
+## Results
+
+Experiment runs for differnt configurations can be viewed at the following links:
+
+- [ViTMAEBase-Probing-COCObackground](https://wandb.ai/team-mirko/ViTMAEBase-Probing-COCObackground)
+- [ViTMAEHuge-Probing-COCObackground](https://wandb.ai/team-mirko/ViTMAEHuge-Probing-COCObackground)
+- [ViTMAEBase-Probing-Food101](https://wandb.ai/team-mirko/ViTMAEBase-Probing-Food101)
+- [ViTMAEHuge-Probing-Food101](https://wandb.ai/team-mirko/ViTMAEHuge-Probing-Food101)
