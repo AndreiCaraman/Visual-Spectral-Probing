@@ -19,9 +19,9 @@ After installing the required packages, and downloading external datasets, the e
 
 ## Repo description
 
-- `coco_backgrounds` directory contains the dataset script that automatically downloads the coco dataset and performs a filtering based on the setted threshold
+- `coco_backgrounds` directory contains the dataset script that automatically downloads the coco dataset and executes filtering based on the specified threshold
 - `notebooks` directory contains some examples from the datasets used in the experiments
-- `src` directory contains the build models, callback, and support functions
+- `src` directory contains the model, callback, and support functions
 - `train.py` is the training script
 
 ## Installation
