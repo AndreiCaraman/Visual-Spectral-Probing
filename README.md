@@ -17,6 +17,13 @@ The toolkit is relatively flexible and can be applied to any model size or datas
 
 After installing the required packages, and downloading external datasets, the experiments can be re-run using the `train.py` script. Please see the instructions below for details.
 
+## Repo description
+
+- `coco_backgrounds` directory contains the dataset script that automatically downloads the coco dataset and performs a filtering based on the setted threshold
+- `notebooks` directory contains some examples from the datasets used in the experiments
+- `src` directory contains the build models, callback, and support functions
+- `train.py` is the training script
+
 ## Installation
 
 This repository uses Python 3.11.6 and the associated packages listed in the `requirements.txt` (a virtual environment is recommended):
